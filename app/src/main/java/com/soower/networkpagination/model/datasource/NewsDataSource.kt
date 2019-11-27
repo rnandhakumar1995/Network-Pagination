@@ -4,7 +4,7 @@ import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.paging.PositionalDataSource
 import com.soower.networkpagination.model.NetworkState
-import com.soower.networkpagination.model.News
+import com.soower.networkpagination.model.pojo.News
 import com.soower.networkpagination.model.repo.API
 import java.lang.Exception
 

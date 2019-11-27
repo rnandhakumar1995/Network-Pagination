@@ -2,7 +2,7 @@ package com.soower.networkpagination.model.datasource
 
 import androidx.lifecycle.MutableLiveData
 import androidx.paging.DataSource
-import com.soower.networkpagination.model.News
+import com.soower.networkpagination.model.pojo.News
 import com.soower.networkpagination.model.repo.API
 
 class NewsDataSourceFactory(val query: String) : DataSource.Factory<Int, News>() {

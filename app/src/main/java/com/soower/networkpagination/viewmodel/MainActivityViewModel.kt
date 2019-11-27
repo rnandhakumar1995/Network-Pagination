@@ -7,7 +7,7 @@ import androidx.lifecycle.ViewModel
 import androidx.paging.LivePagedListBuilder
 import androidx.paging.PagedList
 import com.soower.networkpagination.model.NetworkState
-import com.soower.networkpagination.model.News
+import com.soower.networkpagination.model.pojo.News
 import com.soower.networkpagination.model.datasource.NewsDataSource
 import com.soower.networkpagination.model.datasource.NewsDataSourceFactory
 

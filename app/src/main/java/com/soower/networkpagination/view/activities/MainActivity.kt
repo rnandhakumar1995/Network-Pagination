@@ -1,4 +1,4 @@
-package com.soower.networkpagination.view
+package com.soower.networkpagination.view.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,7 +8,7 @@ import androidx.paging.PagedList
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.soower.networkpagination.R
 import com.soower.networkpagination.model.NetworkState
-import com.soower.networkpagination.model.News
+import com.soower.networkpagination.model.pojo.News
 import com.soower.networkpagination.view.adapter.NewsListAdapter
 import com.soower.networkpagination.viewmodel.MainActivityViewModel
 import kotlinx.android.synthetic.main.activity_main.*

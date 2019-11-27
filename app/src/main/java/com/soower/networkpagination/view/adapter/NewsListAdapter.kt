@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.soower.networkpagination.R
 import com.soower.networkpagination.model.NetworkState
-import com.soower.networkpagination.model.News
+import com.soower.networkpagination.model.pojo.News
 import com.soower.networkpagination.model.Status
 import kotlinx.android.synthetic.main.news_item.view.*
 import kotlinx.android.synthetic.main.progress_item.view.*

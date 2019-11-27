@@ -1,7 +1,7 @@
 package com.soower.networkpagination.model.repo
 
 
-import com.soower.networkpagination.model.SearchResult
+import com.soower.networkpagination.model.pojo.SearchResult
 import io.reactivex.Single
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
